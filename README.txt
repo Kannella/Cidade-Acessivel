@@ -1,6 +1,6 @@
 CIDADEACESSÍVEL | GLOBAL SOLUTION 2 – 2026
 FIAP — Atividade substitutiva | CitizenTech
-Autores: Bruna Fazan e Giovanni Canella
+Autor: Giovanni Canella
 
 1. PROPOSTA
 CidadeAcessível é um protótipo mobile voltado ao registro e acompanhamento de barreiras de acessibilidade urbana. O objetivo é facilitar a identificação de problemas de infraestrutura por cidadãos, especialmente pessoas com deficiência, idosos e pessoas com mobilidade reduzida. Não é um canal oficial de atendimento público.
@@ -44,11 +44,10 @@ Atividade Substitutiva — CitizenTech
 Projeto: CidadeAcessível
 
 Integrantes:
-Bruna Fazan — RM564463
 Giovanni Canella — RM564462
 
 Repositório GitHub:
-https://github.com/BrunaFazan/Cidade-Acess-vel
+https://github.com/Kannella/Cidade-Acessivel
 
 Vídeo técnico:
 https://youtu.be/cfW2g8BOw_0
